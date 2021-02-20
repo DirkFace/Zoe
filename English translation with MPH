@@ -7,7 +7,7 @@
 let myRenaultUser = "*****" 	// email
 let myRenaultPass = "*****" 	// password
 
-// set your ZOE Model (Phase 1 or 2) // bitte eingeben!
+// set your ZOE Model (Phase 1 or 2) // Please enter 1 or 2 depending on make of car.
 let ZOE_Phase = "1" // "1" or "2"
 
 // should we use apple-maps or google maps?
